@@ -4,6 +4,7 @@
 一个专为 Polymarket 预测市场设计的自动化交易机器人，主打 ”轻量级、全自动、低延迟”。
 
 
+
 # 🤖 Polymarket 极简套利机器人 (SimpleBot)
 
 ## 📋 套利功能
@@ -122,7 +123,7 @@ python3 simple_bot.py
 
 # 💎 源码地址
 
-*   ** Polymarket 套利机器人 15M 高频交易版 **: [获取源码](https://holly.ink)
+*   ** Polymarket 套利机器人 15M 高频交易版 **: [获取源码](https://holly.ink/archives/907)
 
 ## 📞 定制联系
 
